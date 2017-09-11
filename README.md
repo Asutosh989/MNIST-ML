@@ -3,7 +3,7 @@
 Download the dataset from the given link and keep the downloaded *csv* files in the same file as the Python Notebook.
 Execute the Jupyter Notebook.
 
-** Model Used **
+### Model Used
 
 1). Random Forest
 

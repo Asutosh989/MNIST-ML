@@ -4,5 +4,7 @@ Download the dataset from the given link and keep the downloaded *csv* files in 
 Execute the Jupyter Notebook.
 
 ** Model Used **
+
 1). Random Forest
+
 2). Gradient Boosting
